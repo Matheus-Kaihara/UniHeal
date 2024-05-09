@@ -36,10 +36,15 @@ XML: Utilizado para criar o layout das telas do aplicativo.
 # 🔰 Autores 
 
 Giovanni Gabriel Angelico
+
 Luis Felipe Filenga - @LuisFelipeFilenga
+
 Leonardo Campos Guimarães - @LeonardoCamposG
+
 Matheus Pereira de Goes
+
 Matheus Ryoske Saito Kaihara - @Matheus-Kaihara
+
 
 # ⛓ Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes.
