@@ -1,5 +1,5 @@
 ## 🏥 UniHeal - Aplicativo de Educação sobre Feridas
-# O UniHeal é um aplicativo mobile desenvolvido para dispositivos Android utilizando o Android Studio. Ele foi criado com o objetivo de fornecer informações educativas sobre feridas, incluindo como tratá-las, o que são, como funcionam e como prevenir.
+O UniHeal é um aplicativo mobile desenvolvido para dispositivos Android utilizando o Android Studio. Ele foi criado com o objetivo de fornecer informações educativas sobre feridas, incluindo como tratá-las, o que são, como funcionam e como prevenir.
 
 # ⚙ Funcionalidades
 - Informações sobre Feridas: O aplicativo fornece conteúdo detalhado sobre diferentes tipos de feridas, incluindo feridas agudas e crônicas, feridas cirúrgicas, queimaduras, úlceras, entre outras.
@@ -8,7 +8,7 @@
 - Card Interativos: Utiliza cards interativos e funcionais para apresentar informações de forma dinâmica e atrativa.
 - Multiplataforma: Desenvolvido para funcionar em dispositivos Android de diferentes tamanhos de tela e versões do sistema operacional.
 
-# 📲Telas do Aplicativo
+# 📲 Telas do Aplicativo
  ◾ Tela Inicial: Apresenta uma visão geral do aplicativo e opções de navegação para as seções principais.
  ◾ Informações sobre Feridas: Páginas dedicadas a diferentes tipos de feridas, com textos informativos, imagens e vídeos explicativos.
  ◾ Guias de Tratamento: Passo a passo ilustrado para a aplicação de curativos e tratamentos específicos para cada tipo de ferida.
