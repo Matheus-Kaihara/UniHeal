@@ -30,7 +30,9 @@ O UniHeal é um aplicativo mobile desenvolvido para dispositivos Android utiliza
 
 # 🧩 Tecnologias Utilizadas
 Android Studio: IDE de desenvolvimento para aplicativos Android.
+
 Java: Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
+
 XML: Utilizado para criar o layout das telas do aplicativo.
 
 # 🔰 Autores 
