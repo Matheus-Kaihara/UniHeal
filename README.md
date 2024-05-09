@@ -46,4 +46,4 @@ Matheus Ryoske Saito Kaihara - @Matheus-Kaihara
 
 
 ## ⛓ Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
