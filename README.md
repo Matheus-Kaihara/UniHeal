@@ -18,9 +18,8 @@ O UniHeal é um aplicativo mobile desenvolvido para dispositivos Android utiliza
  
 # 🖼 Capturas de Tela
 
+![1](https://github.com/Matheus-Kaihara/UniHeal/assets/134160673/d94e756b-baa3-4173-ada5-3b6d9bf33aee) ![2](https://github.com/Matheus-Kaihara/UniHeal/assets/134160673/4966ee47-e216-41e3-8caf-40568cdf92cf)
 
-![1](https://github.com/Matheus-Kaihara/UniHeal/assets/134160673/06828d74-ae7b-4d4f-9700-a49e7451d38a)
-![2](https://github.com/Matheus-Kaihara/UniHeal/assets/134160673/162aaf9e-1be0-465f-9548-523403233557)
 
 
 # 📝 Como Usar
